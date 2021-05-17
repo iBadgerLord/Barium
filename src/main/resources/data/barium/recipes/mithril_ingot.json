@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "barium:mithril_scrap"
+    },
+    {
+      "item": "barium:mithril_scrap"
+    },
+    {
+      "item": "barium:mithril_scrap"
+    },
+    {
+      "item": "barium:mithril_scrap"
+    }
+  ],
+  "result": {
+    "item": "barium:mithril_ingot",
+    "count": 1
+  }
+}

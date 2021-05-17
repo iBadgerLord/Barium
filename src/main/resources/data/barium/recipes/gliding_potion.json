@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "abc",
+    "BGB",
+    " B "
+  ],
+  "key": {
+    "a": {
+      "item": "barium:light_rune"
+    },
+    "b": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "c": {
+      "item": "barium:electric_rune"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "G": {
+      "item": "barium:star_bottle"
+    }
+  },
+  "result": {
+    "item": "barium:gliding_potion",
+    "count": 1
+  }
+}

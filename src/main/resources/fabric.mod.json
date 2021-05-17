@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "barium",
+  "version": "beta-1.0.0",
+
+  "name": "Barium",
+  "description": "Barium is a mod that aims to add a new Alchemy system to minecraft, by adding new a new armour type and stronger (yet dangerous) potions.",
+  "authors": [
+    "iBadgerLord"
+  ],
+  "credits": "A special thanks to Artemis (https://github.com/Artemisinin) for all their contribution and help regarding generation.",
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/barium/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.ibadgerlord.barium.Barium"
+    ],
+    "client": [
+      "com.ibadgerlord.barium.client.BariumClient"
+    ]
+  },
+  "mixins": [
+    "barium.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  },
+  "accessWidener": "barium.accesswidener"
+}

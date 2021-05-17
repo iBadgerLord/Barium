@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "abc",
+    "BGB",
+    " B "
+  ],
+  "key": {
+    "a": {
+      "item": "barium:fire_rune"
+    },
+    "b": {
+      "item": "minecraft:ghast_tear"
+    },
+    "c": {
+      "item": "barium:dragon_rune"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "G": {
+      "item": "barium:grand_bottle"
+    }
+  },
+  "result": {
+    "item": "barium:grand_strength_potion",
+    "count": 1
+  }
+}

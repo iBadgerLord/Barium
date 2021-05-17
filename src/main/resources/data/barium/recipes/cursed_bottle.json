@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "#G#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:purple_stained_glass"
+    },
+    "S": {
+      "item": "minecraft:spider_eye"
+    },
+    "G": {
+      "item": "barium:grand_bottle"
+    }
+  },
+  "result": {
+    "item": "barium:cursed_bottle",
+    "count": 1
+  }
+}

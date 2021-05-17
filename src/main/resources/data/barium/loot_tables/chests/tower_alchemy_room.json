@@ -1,0 +1,195 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 4,
+        "max": 8
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "barium:mithril_scrap"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "barium:mithril_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "barium:light_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "barium:dark_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "barium:fire_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "barium:grass_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "barium:water_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "barium:electric_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "barium:fairy_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "barium:dragon_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 16,
+          "name": "minecraft:experience_bottle",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "barium:cursed_unlucky_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "barium:cursed_weakness_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "barium:cursed_poison_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "barium:cursed_slowness_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "barium:grand_luck_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "barium:grand_strength_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "barium:grand_speed_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "barium:grand_jump_boost_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "barium:grand_regeneration_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "barium:gliding_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "barium:recall_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 30,
+          "name": "minecraft:lapis_lazuli",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "enchantments": [
+                "minecraft:mending",
+                "minecraft:aqua_affinity",
+                "minecraft:binding_curse",
+                "minecraft:vanishing_curse",
+                "minecraft:luck_of_the_sea",
+                "minecraft:silk_touch",
+                "minecraft:blast_protection",
+                "minecraft:protection",
+                "minecraft:fire_protection"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 30,
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 40,
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 8
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

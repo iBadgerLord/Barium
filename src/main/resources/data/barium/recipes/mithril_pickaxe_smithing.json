@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "addition": {
+    "item": "barium:mithril_ingot"
+  },
+  "result": {
+    "item": "barium:mithril_pickaxe"
+  }
+}

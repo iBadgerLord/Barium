@@ -1,0 +1,131 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 8
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "barium:mithril_scrap"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 0.5,
+          "name": "barium:mithril_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "barium:light_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "barium:dark_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "barium:fire_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "barium:grass_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "barium:water_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "barium:electric_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "barium:fairy_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "barium:dragon_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "minecraft:lapis_lazuli",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "enchantments": [
+                "minecraft:mending",
+                "minecraft:aqua_affinity",
+                "minecraft:binding_curse",
+                "minecraft:vanishing_curse",
+                "minecraft:luck_of_the_sea",
+                "minecraft:silk_touch",
+                "minecraft:blast_protection",
+                "minecraft:protection",
+                "minecraft:fire_protection"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 7,
+          "name": "minecraft:writable_book"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 8
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
