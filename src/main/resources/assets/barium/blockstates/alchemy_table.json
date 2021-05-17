@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "barium:block/alchemy_table", "y": 180 },
-    "facing=east":  { "model": "barium:block/alchemy_table", "y":  270},
-    "facing=south": { "model": "barium:block/alchemy_table" },
-    "facing=west":  { "model": "barium:block/alchemy_table", "y": 90 }
-  }
-}

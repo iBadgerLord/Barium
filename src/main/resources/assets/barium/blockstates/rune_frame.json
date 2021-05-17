@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "barium:block/rune_frame" },
-    "facing=east":  { "model": "barium:block/rune_frame", "y":  90},
-    "facing=south": { "model": "barium:block/rune_frame", "y": 180 },
-    "facing=west":  { "model": "barium:block/rune_frame", "y": 270 }
-  }
-}
