@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "barium:item/grand_potion",
+    "layer1": "barium:item/grand_potion_overlay"
+  }
+}

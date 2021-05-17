@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "barium:block/marble_bricks",
+    "top": "barium:block/marble_bricks",
+    "side": "barium:block/marble_bricks"
+  }
+}

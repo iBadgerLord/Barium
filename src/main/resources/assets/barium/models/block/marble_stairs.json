@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "barium:block/marble",
+    "top": "barium:block/marble",
+    "side": "barium:block/marble"
+  }
+}

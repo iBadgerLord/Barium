@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "barium:block/flowering_mulberry_sapling"
+  }
+}

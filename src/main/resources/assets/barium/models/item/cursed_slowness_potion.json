@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "barium:item/cursed_slowness_potion_overlay",
+    "layer1": "barium:item/cursed_potion"
+  }
+}
