@@ -4,6 +4,8 @@ Sources:
 
   AOCAWOL, and Corgi_Taco. "BYG." GitHub, 19 May 2021, github.com/CorgiTaco/BYG. Accessed 20 May 2021.
   
+  ChildWalrus. "The Lord of the Rings Mod: Renewed." CurseForge, 7 Sept. 2020, www.curseforge.com/minecraft/mc-mods/the-lord-of-the-rings-mod-renewed. Accessed 20 May 2021.
+  
   Ffrannny. "mostructures." GitHub, 26 Apr. 2021, github.com/frqnny/mostructures. Accessed 20 May 2021.
   
   "How Minecraft's Desert Pyramids SHOULD Be Updated." YouTube, uploaded by SystemZee, Google, 4 Apr. 2020, www.youtube.com/watch?v=917L4FQlv7E&t=268s. Accessed 20 May 2021.
