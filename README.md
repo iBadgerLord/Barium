@@ -25,10 +25,10 @@ Sources:
   Zabi94, and PinkGoosik. "ExtraAlchemy." GitHub, 14 Apr. 2021, github.com/zabi94/ExtraAlchemy. Accessed 20 May 2021.
 
   Discord - ‘The Fabric Project’: 
-    Daomephsta
-    OroArmor
-    Platy VCB
-    Virtuoel
+    Daomephsta,
+    OroArmor,
+    Platy VCB,
+    Virtuoel,
     Artemis
 
   Planet Minecraft - Minecraft Build - [Download & Schematic] Wizard Tower - Weekly Build #5 - MystycLegend - https://www.planetminecraft.com/project/download-amp-schematic-wizard-tower-weekly-build-5/, https://www.planetminecraft.com/member/mystyclegend/ 
